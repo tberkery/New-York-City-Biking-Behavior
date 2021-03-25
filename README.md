@@ -16,6 +16,7 @@ Regression Results: -4881(weekend) + 365(month) + 416(high temp) - 270(low temp)
 
 Cluster results:
 ![alt text](https://github.com/tberkery/New-York-City-Biking-Behavior/blob/main/Biking%20Behavior%20Clusters.PNG)
+This suggests the three baseline patterns frequently observed for New York City biking are as follows: (1) rainy day on the weekend and fewer-than-average bikers across all bridges, (2) sunny day during the week with significantly above-average biker quantities across all bridges, and (3) sunny day on the weekend with somewhat-more-than-average biker quantities.
 
 # Further Research
 -More seasons
