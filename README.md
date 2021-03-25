@@ -8,15 +8,14 @@ New York City is the epitome of a modern metropolis that doesn’t have enough t
 
 # Data Question
 How can we predict biking behavior and understand common biking behavior patterns?
+We obtained data from the New York City Department of Transportation on total bicycle crossings from April 2017 to October 2017. The data included information about the date, precipitation levels, and corresponding high and low temperatures. In order to assess whether these metrics factor into bicycle crossings we conducted a two part analysis to determine 1) whether we could predict biking behavior and 2) whether there are common biking behavior patterns we can extrapolate from. To predict biking behavior, we ran a multivariate regression with total crossings as the dependent variable. To determine whether there are common biking behavioral patterns, we ran a cluster analysis with three anchors. 
 
 # Results
 Regression Results: -4881(weekend) + 365(month) + 416(high temp) - 270(low temp) - 5785(precipitation) + 4145
-![alt text](https://github.com/tberkery/New-York-City-Biking-Behavior/blob/main/Total%20Crossings%20vs.%20High%20Temp.png)
-![alt text](https://github.com/tberkery/New-York-City-Biking-Behavior/blob/main/Total%20Crossings%20vs.%20Precipitation.png)
+// Link visuals here
 
 Cluster results:
-![alt text](https://github.com/tberkery/New-York-City-Biking-Behavior/blob/main/Biking%20Behavior%20Clusters.PNG)
-This suggests the three baseline patterns frequently observed for New York City biking are as follows: (1) rainy day on the weekend and fewer-than-average bikers across all bridges, (2) sunny day during the week with significantly above-average biker quantities across all bridges, and (3) sunny day on the weekend with somewhat-more-than-average biker quantities.
+// Link visual here
 
 # Further Research
 -More seasons
