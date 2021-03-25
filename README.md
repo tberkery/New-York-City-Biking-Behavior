@@ -20,11 +20,7 @@ Cluster results:
 ![alt text](https://github.com/tberkery/New-York-City-Biking-Behavior/blob/main/Biking%20Behavior%20Clusters.PNG)
 
 # Further Research
--More seasons
--More cities
--Incorporating non-bridge bike routes
--How does car traffic on bridges vary based on number of bikers?
--Driving factors (delivery, commute, recreation) 
+To further build on this project, we would love to integrate more winter data (our dataset's earliest data point is April) to investigate how winter impacts bike-riding behavior. Given biking in the winter is often a problematically cold activity and snow and ice can make biking treacherous, we suspect accounting for winter would significantly upgrade our model's usefulness and predictive power. In addition, we would love to generalize this analysis to more cities. New York City is far from the only city suffering from it's highways being inundated with cars, and it would be worthwhile to explore how biking behaviors are similar or differnt in other dense, hustling cities.
 
 # Steps for Regression Analysis
 1. Use WEEKDAY function to convert date-time format to day of week by number
@@ -53,5 +49,3 @@ Cluster results:
 12. Using Solver, set the constraints that the cluster ID number must be between 1 and 214 and be a valid integer. Uncheck the option of making unconstrained variables non-negative.
 13. Using Solver, select the "Evolutionary" solver option and set the mutation rate to 0.5
 14. Run Solver and interpret your results, making use of conditional formatting to make tables and visuals more readable and intuitive.
-15. 
-16. 
