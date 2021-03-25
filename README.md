@@ -16,6 +16,9 @@ Regression Results: -4881(weekend) + 365(month) + 416(high temp) - 270(low temp)
 ![alt text](https://github.com/tberkery/New-York-City-Biking-Behavior/blob/main/Total%20Crossings%20vs.%20High%20Temp.png)
 ![alt text](https://github.com/tberkery/New-York-City-Biking-Behavior/blob/main/Total%20Crossings%20vs.%20Precipitation.png)
 
+The multivariate regression yields an R-squared of 0.612, which suggests a moderate linear correlation between the factors examined and total bike crossings. All the p-values were significant, showing that day of week, month, temperature, and precipitation contribute to the volume of bicycle use. However, when we examined precipitation and high temperature against total crossings individually, the linear regression returned low R-squared values. This suggests that looking at the factors together with the multivariate analysis may be a better predictor than any one factor, as expected. Overall, as time went on and the high temperature increased, bike crossings increased. On the other hand, with colder weather and more precipitation, bike crossings decreased. The weekend also negatively impacts the number of bike crossings, which can be rationalized by the observation that fewer people are commuting. 
+
+
 Cluster results:
 ![alt text](https://github.com/tberkery/New-York-City-Biking-Behavior/blob/main/Biking%20Behavior%20Clusters.PNG)
 
