@@ -1,9 +1,9 @@
 # New-York-City-Biking-Behavior
-Biking provides one source of relief to New York City's traffic congestion and lack of transit capacity issues. However, to promote biking practices, certain infrastructure needs to be created to encourage use of bikes even when environmental factors are unfavorable. To better understand the infrastructure needed, we looked at what factors affect biking behavior in New York City in the warmer months. By examining:
-  1. date
-  2. temperatures
-  3. precipitation
-  4. day of week 
+Biking provides one source of relief to New York City's traffic congestion and lack of transit capacity issues. However, to promote biking practices, certain infrastructure needs to be created to encourage use of bikes even when environmental factors are unfavorable. To better understand the infrastructure needed, we looked at what factors affect biking behavior in New York City in the warmer months. By examining
+  1. date,
+  2. temperatures,
+  3. precipitation, and
+  4. day of week, 
 
 we were able to identify precipitation and day of week as the most significant influencers of biking. Given these insights, New York City government can help increase reliance on bikes as transportation by prioritizing policies or infrastructure that make biking a more lucrative option for days with unfavorable weather. 
  
